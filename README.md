@@ -62,24 +62,6 @@ Target audiences:
 - [React Docs](https://reactjs.org/docs/create-a-new-react-app.html)
 
 
-#### MongoDB cloud database hosting
-- [mLab](https://mlab.com/welcome/) - free sandbox
-- [Setting up the MongoDB database](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose#Setting_up_the_MongoDB_database)
-
-
-#### Testing
-- File: [populatedb.js](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose#Testing_%E2%80%94_create_some_items)
-- Tool: [Postman](https://www.getpostman.com/docs/v6/postman/sending_api_requests/requests)
-- Database: localhost MongoDB or cloud hosting MongoDB
-
-
-#### Important keywords
-- Routing: POST, GET, PUT, DELETE
-- Mongoose: Schemas, Model, Populate
-- [JSON Web Token (JWT)](https://github.com/auth0/node-jsonwebtoken#readme)
-- [Password hash function (bcrypt)](https://github.com/kelektiv/node.bcrypt.js#readme)
-
-
 #### Packages installed
 - react-router-dom
 
