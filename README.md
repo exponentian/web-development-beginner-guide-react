@@ -82,7 +82,7 @@ $ git clone https://github.com/exponentian/web-development-beginner-guide-react.
 $ npm install
 ```
 
-3. Add your MONGOLAB URI in ./src/config.js
+3. Add your API URL in ./src/config.js
 
 4. Start
 
