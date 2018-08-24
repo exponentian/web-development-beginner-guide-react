@@ -16,6 +16,7 @@
 - Web authetication and authorization methods
 - Communicating data between backend and frontend
 - Implimenting basic four [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) operations
+- Differences between React only and React-Redux in terms of data flow
 
 
 This tutorial consists of three parts: 
@@ -35,6 +36,7 @@ Target audiences:
 
 
 ### Features
+- Form validation
 - Login/Logout and Signup with authentication tools such as [JSON Web Token (JWT)](https://github.com/auth0/node-jsonwebtoken#readme)  and [password hashing function (bcrypt)](https://github.com/kelektiv/node.bcrypt.js#readme)
 - Display all books available to borrow
 - Display all books borrowed by users
